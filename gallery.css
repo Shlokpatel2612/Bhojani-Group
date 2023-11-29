@@ -1,0 +1,119 @@
+.heads{
+    border: solid #43e9ff 2px;
+    border-radius: 7px;
+    width: 280px;
+    background-color: rgb(245, 245, 170);
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 550px;  
+    font-size: xx-large;
+    outline-color: mediumorchid;
+    text-shadow: 2px 2px 5px red;
+    font-family: cursive;
+}   
+.channle{
+    text-decoration: none;
+    font-family: fantasy;
+    text-shadow: 2px 2px 5px aqua;
+    font-size: xx-large;
+    margin-left: 10px;
+}
+.link{
+    font-size: x-large;
+    color: red;
+    text-shadow: 2px 2px 3px rgb(255, 136, 0);
+}
+.youtube i{
+    font-size: 30px;
+    color: white;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    transition: 0.8s;
+    margin-top: 5px;
+    display: inline-block;
+}
+.youtube i:hover{
+    background: #FFB74D;
+}
+.nevigation ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #044cab;
+} 
+.nevigation li{
+    float: left;
+}
+li a{
+    font-size: larger;
+    display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}
+li :hover{
+    background-color: rgb(43, 91, 248);
+}
+.active{
+    background-color: #FFB74D;
+}
+.header{
+    color: white;
+    display: inline-block;
+    font-size: larger;
+    padding-left: 20%;
+}
+.a{
+    width: 49%;
+    float: left;
+    border: solid black 3px;        
+}
+.b{
+    width: 49%;
+    float: right;
+    border: solid black 3px;
+}
+.c{
+    width: 30%;
+    float: right;
+    margin-top: 10px;
+    border: solid black 3px;
+}
+.d{
+    width: 30%;
+    float: right;
+    margin-top: 10px;
+    margin-right: 60px;
+    border: solid black 3px;
+}
+.e{
+    width: 30%;
+    float: left;
+    margin-top: 10px;
+    border: solid black 3px;
+}
+.f{
+    width: 30%;
+    float: left;
+    margin-top: 10px;
+    border: solid black 3px;
+}
+.g{
+    width: 30%;
+    float: right;
+    margin-top: 10px;
+    border: solid black 3px;
+}
+.h{
+    width: 30%;
+    float: right;
+    margin-top: 10px;
+    margin-right: 60px;
+    border: solid black 3px;
+}
